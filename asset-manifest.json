@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/odin-memory-card/static/css/main.f574068b.css",
+    "main.js": "/odin-memory-card/static/js/main.f3675056.js",
+    "static/media/person1.jpg": "/odin-memory-card/static/media/person1.1e728c421476be86f1e6.jpg",
+    "static/media/person2.jpg": "/odin-memory-card/static/media/person2.6c01995c10deb27ee1a2.jpg",
+    "static/media/person12.jpg": "/odin-memory-card/static/media/person12.460ffc0651fbbc3f603b.jpg",
+    "static/media/person3.jpg": "/odin-memory-card/static/media/person3.f497f78918ff7f0f05d3.jpg",
+    "static/media/person9.jpg": "/odin-memory-card/static/media/person9.1064cd4eb15731b55a0f.jpg",
+    "static/media/person6.jpg": "/odin-memory-card/static/media/person6.7e063d2fbedc9d2fa25c.jpg",
+    "static/media/person7.jpg": "/odin-memory-card/static/media/person7.d6a2518cf75de94b0131.jpg",
+    "static/media/person11.jpg": "/odin-memory-card/static/media/person11.c73d5cbb861ae554941a.jpg",
+    "static/media/person8.jpg": "/odin-memory-card/static/media/person8.107ca8437e48a4c70faf.jpg",
+    "static/media/person10.jpg": "/odin-memory-card/static/media/person10.3672f7073891fd5d9512.jpg",
+    "static/media/person5.jpg": "/odin-memory-card/static/media/person5.3faeb3871ba983071ab1.jpg",
+    "static/media/person4.jpg": "/odin-memory-card/static/media/person4.a989a32ffa620b9cec01.jpg",
+    "index.html": "/odin-memory-card/index.html",
+    "main.f574068b.css.map": "/odin-memory-card/static/css/main.f574068b.css.map",
+    "main.f3675056.js.map": "/odin-memory-card/static/js/main.f3675056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f574068b.css",
+    "static/js/main.f3675056.js"
+  ]
+}
